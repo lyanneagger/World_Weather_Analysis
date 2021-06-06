@@ -1,6 +1,6 @@
 # Vacation Planner
 
-## Overview of Project
+## Overview
 
 This analysis uses consumer input on weather preferences to provide possible vacation destinations. Using some of these possible locations, hotel information, weather information, and driving directions will be displayed on a map.
 
